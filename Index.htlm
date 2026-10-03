@@ -1,0 +1,68 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Derek | Official Website</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #101827;
+      color: white;
+      text-align: center;
+    }
+    header {
+      padding: 25px;
+      background: #07111f;
+    }
+    h1 {
+      color: #38bdf8;
+      font-size: 38px;
+    }
+    main {
+      padding: 60px 20px;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+    .btn {
+      display: inline-block;
+      background: #0284c7;
+      color: white;
+      padding: 14px 25px;
+      text-decoration: none;
+      border-radius: 8px;
+      margin-top: 20px;
+    }
+    footer {
+      padding: 20px;
+      background: #07111f;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h2>DEREK</h2>
+    <p>Welcome to my official website</p>
+  </header>
+
+  <main>
+    <h1>Hello, I'm Derek! 👋</h1>
+    <p>Welcome to my personal website.</p>
+    <p>Explore my website and learn more about me,
+       my interests and my projects.</p>
+    <a class="btn" href="mailto:your@email.com">
+      Contact Me
+    </a>
+  </main>
+
+  <footer>
+    <p>© 2026 Derek. All rights reserved.</p>
+  </footer>
+</body>
+</html>
